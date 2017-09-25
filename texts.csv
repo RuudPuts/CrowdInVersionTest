@@ -6,3 +6,7 @@
 "A color.","Color_Orange","Orange"
 "A color.","Color_Pink","Pink"
 "A color.","Color_Purple","Purple"
+
+
+"A delete button.","Button_Delete","Delete"
+"A confirm button.","Button_Confirm","Confirm"
